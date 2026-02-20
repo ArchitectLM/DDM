@@ -1,4 +1,4 @@
-# DefinitiveSpec (DSpec)
+# DefinitiveSpec
 
 > **A Constraint Satisfaction Engine for AI-Assisted Software Development**
 > *Spec-first. Evidence-based. Verifiable by construction.*
